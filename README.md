@@ -7,27 +7,16 @@ __Web Framework__- Flask
 
 ## Features
 
-__Minimalistic UI__ \
-The frontend is developed to be minimalistic and simple in order to be understood by anyone
+__UI__ \
+The UI of this website it simple and has a smooth flow.
 
  
-__Search and Filters__ \
-The issued books and current books can be searched inside the app. Filters are present to easily sort the required book
+__Deepfake Detection__ \
+The pytorch model is capable of detecting deepfaked images
 
-__Data Visualization__ \
-The data pertaining to each student in visualized, making it easy for teacher to understand their growth
+__Deepfake Prevention__ \
+Any uploaded data can be encrypted in a manner to provide immunity against deepfaking
 
-__Recommendations__\
-Books can be recommended to each student based on their current reading trends
-
-__Personal profile__\
-Each student's personal profile can be accessed.
-
-__Chatbot__\
-A chatbot is integrated into the app using an API. It can be used to answer simple queries posed by the teachers and students. 
-
-__Delay Notifications__\
-A notification system is used to send notify when a student has exceeded the 7-day limit to return the book
 
 # Preview
 
@@ -38,6 +27,9 @@ A notification system is used to send notify when a student has exceeded the 7-d
 ![3](https://github.com/user-attachments/assets/3b02c263-699e-418b-b18f-bf6ce303d9f6)
 
 ![4](https://github.com/user-attachments/assets/73e7683d-d98c-49c9-be79-c1f2f324ba63)
+
+<img src="https://github.com/user-attachments/assets/f30c155b-3b14-4c74-96a3-5a60110d9396" alt="5" width="1200">
+
 
 
 
