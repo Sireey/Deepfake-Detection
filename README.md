@@ -2,8 +2,8 @@
 This project consists of a machine learning model that is trained to detect and distinguish between deepfake and real images.
 
 ## ⚒️ Tech stack used
-__FrontEnd__- React Native\
-__Backend__- SQLite
+__Deep Learning Framework__- Pytorch\
+__Web Framework__- Flask
 
 ## Features
 
@@ -31,15 +31,13 @@ A notification system is used to send notify when a student has exceeded the 7-d
 
 # Preview
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/bfe8ac89-1feb-46e2-872c-301752f20c77" alt="homepage" width="600"></td>
-    <td><img src="https://github.com/user-attachments/assets/259e2195-dfdb-4a63-9854-f00b26c2be37" alt="avai" width="600"></td>
-    <td><img src="https://github.com/user-attachments/assets/bb85b2d4-fa25-43a7-8d46-0da04764ae91" alt="ci_co" width="600"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/e913e4ce-ef1d-4173-a275-9c92c2170f71" alt="ana" width="600"></td>
-    <td><img src="https://github.com/user-attachments/assets/23ae67e8-8c5b-45de-896c-d4a09b8a815c" alt="chatbot" width="600"></td>
-  </tr>
-</table>
+![hp](https://github.com/user-attachments/assets/cf9f62d0-41a2-4b4e-a527-e31146d54887)
+
+![2](https://github.com/user-attachments/assets/bc4f8b6e-a53f-431a-b86a-98bf318ed18f)
+
+![3](https://github.com/user-attachments/assets/3b02c263-699e-418b-b18f-bf6ce303d9f6)
+
+![4](https://github.com/user-attachments/assets/73e7683d-d98c-49c9-be79-c1f2f324ba63)
+
+
 
